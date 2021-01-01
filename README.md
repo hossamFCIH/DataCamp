@@ -1,5 +1,7 @@
 # DataCamp
 This Repository Contains all Datacamp Projects for Data Science Career Track
+you will find all prejects in .zip files
+you better run them in jupyter notebook
 
 1. Analyzing TV Data
 
